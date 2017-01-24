@@ -186,7 +186,7 @@
 		transform: translate3d(0,0,0);
 	/* Set your background with this */
 
-		background: #6C7A89 url("images/bg.jpg") bottom left;
+		background: #FFFFFF url("images/bg.jpg") bottom left;
 		background-repeat: repeat-x;
 		height: 100%;
 		left: 0;
@@ -776,6 +776,7 @@
 
 			body, input, select, textarea {
 				font-size: 12pt;
+				color: #6C7A89;
 			}
 
 		/* BG */
@@ -844,7 +845,6 @@
 				transform: translate3d(-750px,0,0);
 			}
 		}
-
 		#bg {
 			background-size: 750px auto;
 			width: 2250px;
